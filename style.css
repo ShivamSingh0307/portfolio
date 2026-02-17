@@ -207,7 +207,15 @@
       display: flex;
       justify-content: center;
       cursor: pointer;
-      transition: 1s;
+    
+  }
+  .skill-icons:hover{
+    background-color: red;
+    transition: 1s;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
   }
 
   .skill-icons img {
