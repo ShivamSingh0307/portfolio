@@ -207,6 +207,7 @@
       display: flex;
       justify-content: center;
       cursor: pointer;
+      border-radius: 25px;
     
   }
   .skill-icons:hover{
@@ -221,6 +222,7 @@
   .skill-icons img {
       height: 100%;
       width: 100%;
+      border-radius: 25px;
   }
 
   #my-service h2 {
