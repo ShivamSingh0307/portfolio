@@ -405,9 +405,13 @@
 
   .footer-item {
       height: 100%;
-      width: 80%;
+      width: 100%;
+      font-size: 20px;
+      display: flex;
       background-color: blue;
       margin: auto;
+      justify-content: space-around;
+      align-items: center;
   }
 
 
